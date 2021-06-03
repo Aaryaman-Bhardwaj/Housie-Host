@@ -1,0 +1,2 @@
+com/aaryaman/housiehost/BuildConfig.java
+ com.aaryaman.housiehost.BuildConfig
