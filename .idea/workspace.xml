@@ -31,9 +31,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fb6ded9-642a-44ad-9701-78e066eef3a3" name="Default Changelist" comment="Merge branch 'master' of https://github.com/Aaryaman-Bhardwaj/Housie-Host">
+    <list default="true" id="6fb6ded9-642a-44ad-9701-78e066eef3a3" name="Default Changelist" comment="Build attempt">
       <change beforePath="$PROJECT_DIR$/.github/workflows/build.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635136671337</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Build attempt">
+      <created>1635140891333</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635140891333</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,17 +206,18 @@
     </ignored-roots>
     <MESSAGE value="v1" />
     <MESSAGE value="Merge branch 'master' of https://github.com/Aaryaman-Bhardwaj/Housie-Host" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/Aaryaman-Bhardwaj/Housie-Host" />
+    <MESSAGE value="Build attempt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Build attempt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="743" y="316" width="424" height="491" key="FileChooserDialogImpl" timestamp="1629983792003">
       <screen x="0" y="35" width="1920" height="1045" />
     </state>
     <state x="743" y="316" key="FileChooserDialogImpl/0.35.1920.1045@0.35.1920.1045" timestamp="1629983792003" />
-    <state x="555" y="293" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1635136672656">
+    <state x="555" y="293" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1635140893417">
       <screen x="0" y="35" width="1920" height="1045" />
     </state>
-    <state x="555" y="293" width="800" height="535" key="Vcs.Push.Dialog.v2/0.35.1920.1045@0.35.1920.1045" timestamp="1635136672656" />
+    <state x="555" y="293" width="800" height="535" key="Vcs.Push.Dialog.v2/0.35.1920.1045@0.35.1920.1045" timestamp="1635140893417" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
