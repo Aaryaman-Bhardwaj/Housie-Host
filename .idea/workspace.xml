@@ -172,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635135457410</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge branch 'master' of https://github.com/Aaryaman-Bhardwaj/Housie-Host">
+      <created>1635136671337</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635136671337</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,10 +207,10 @@
       <screen x="0" y="35" width="1920" height="1045" />
     </state>
     <state x="743" y="316" key="FileChooserDialogImpl/0.35.1920.1045@0.35.1920.1045" timestamp="1629983792003" />
-    <state x="555" y="293" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1635135469437">
+    <state x="555" y="293" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1635136672656">
       <screen x="0" y="35" width="1920" height="1045" />
     </state>
-    <state x="555" y="293" width="800" height="535" key="Vcs.Push.Dialog.v2/0.35.1920.1045@0.35.1920.1045" timestamp="1635135469437" />
+    <state x="555" y="293" width="800" height="535" key="Vcs.Push.Dialog.v2/0.35.1920.1045@0.35.1920.1045" timestamp="1635136672656" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
