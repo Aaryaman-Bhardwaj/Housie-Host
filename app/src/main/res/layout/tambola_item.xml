@@ -11,7 +11,5 @@
         android:background="@drawable/border_bg"
         android:gravity="center"
         android:text="92"
-        android:textColor="#F3EAEA"
-        tools:layout_editor_absoluteX="57dp"
-        tools:layout_editor_absoluteY="156dp" />
+        android:textColor="#F3EAEA" />
 </androidx.constraintlayout.widget.ConstraintLayout>
